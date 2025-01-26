@@ -7,7 +7,7 @@
   <tr>
     <td>
       <p align="left"> 
-        Hello! I'm a passionate software developer and data analyst dedicated to creating innovative solutions using code and data. My journey combines a strong foundation in software development with data-driven decision-making, focusing on building scalable applications and meaningful insights.
+        Hello! 
       </p>
     </td>
     <td>
