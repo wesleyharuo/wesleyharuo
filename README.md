@@ -6,12 +6,12 @@
 <table>
   <tr>
     <td>
-      <p align="left"> 
+      <p align="center"> 
         Hello! 
       </p>
     </td>
     <td>
-      <p align="left">
+      <p align="center">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
       </p>
     </td>
