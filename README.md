@@ -3,26 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Hi!+I'm+a+Software+Developer,+Data+Analyst;Building+Scalable+and+Innovative+Solutions!" alt="Typing SVG" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <p align="center"> 
-        Hello! 
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-
 ##  Technical Skills  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket Animation" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket Animation" /></div>
+</div>  
+<div align="center">  
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,flask,git,github,aws,azure,tableau,powerbi" alt="Technical Skills" />
 </div>
 
@@ -57,7 +43,7 @@
 ##  Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/wesleyhk" target="_blank">
+  <a href="https://linkedin.com/in/wharuo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hks.wesley@gmail.com">
