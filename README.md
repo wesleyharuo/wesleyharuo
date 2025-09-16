@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+scalable+solutions+with+modern+tech;📊+Transforming+data+into+actionable+insights;☁️+Architecting+cloud-native+applications;🔧+Automating+workflows+for+maximum+efficiency" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=+Building+scalable+solutions+with+modern+tech;+Transforming+data+into+actionable+insights;+Architecting+cloud-native+applications;🔧+Automating+workflows+for+maximum+efficiency" alt="Typing Animation" />
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 ### 💡 Core Expertise
 yaml
 Role: Senior Full Stack Developer & Data Engineer
-Experience: 5+ years in enterprise solutions
+Experience: Enterprise solutions
 Specialization: 
   - Scalable Web Applications
   - Data Pipeline Architecture  
