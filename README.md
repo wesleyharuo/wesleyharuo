@@ -262,7 +262,7 @@ Specialization:
 ## 🎨 **Complete Projects Showcase**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wharuo&custom_title=My%20Development%20Journey&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Development Journey"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleyharuo&custom_title=My%20Development%20Journey&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Development Journey"/>
 </div>
 
 ---
@@ -454,7 +454,7 @@ Specialization:
 <td width="50%">
 
 ### 🍽️ **DigitalMenuHub - Restaurant Tech**
-**Repository:** [DigitalMenuHub](https://github.com/wharuo/DigitalMenuHub)  
+**Repository:** [DigitalMenuHub](https://github.com/wesleyharuo/DigitalMenuHub)  
 **Status:** 🔒 Public | 🍽️ Restaurant Ready
 
 **Tech Stack:**
@@ -479,7 +479,7 @@ Specialization:
 <td width="50%">
 
 ### 📊 **QuickStats Web - Statistics Service**
-**Repository:** [QuickStats-Web](https://github.com/wharuo/QuickStats-Web)  
+**Repository:** [QuickStats-Web](https://github.com/wesleyharuo/QuickStats-Web)  
 **Status:** 🔒 Public Template | 📊 Statistics Platform
 
 **Tech Stack:**
@@ -513,7 +513,7 @@ Specialization:
 <td width="50%">
 
 ### 🧮 **Calc Vector - Vector Analysis Tool**
-**Repository:** [Calc_Vector](https://github.com/wharuo/Calc_Vector)  
+**Repository:** [Calc_Vector](https://github.com/wesleyharuo/Calc_Vector)  
 **Status:** 🔒 Public | 🎓 Educational Tool
 
 **Tech Stack:**
@@ -539,7 +539,7 @@ Specialization:
 <td width="50%">
 
 ### 💳 **Canadian Banknote Authentication**
-**Repository:** [MachineL.-Note-Authentication](https://github.com/wharuo/MachineL.-Note-Authentication)  
+**Repository:** [MachineL.-Note-Authentication](https://github.com/wesleyharuo/MachineL.-Note-Authentication)  
 **Status:** 🔒 Public | 🇨🇦 Security Application
 
 **Tech Stack:**
@@ -573,7 +573,7 @@ Specialization:
 <td width="50%">
 
 ### 📄 **PDF to Word Converter**
-**Repository:** [PDF_To_Word](https://github.com/wharuo/PDF_To_Word)  
+**Repository:** [PDF_To_Word](https://github.com/wesleyharuo/PDF_To_Word)  
 **Status:** 🔒 Public | 🔄 Utility Tool
 
 **Tech Stack:**
@@ -592,7 +592,7 @@ Specialization:
 <td width="50%">
 
 ### 🔐 **Login Matrix - Authentication System**
-**Repository:** [Login_Matrix](https://github.com/wharuo/Login_Matrix)  
+**Repository:** [Login_Matrix](https://github.com/wesleyharuo/Login_Matrix)  
 **Status:** 🔒 Public | 🔐 Security Framework
 
 **Tech Stack:**
@@ -643,7 +643,7 @@ Specialization:
 ---
 
 #### 🌐 Microservices E-Learning Platform
-**Repository:** [github.com/wharuo/microservices-elearning](https://github.com/wharuo/microservices-elearning)  
+**Repository:** [github.com/wesleyharuo/microservices-elearning](https://github.com/wesleyharuo/microservices-elearning)  
 **Status:** 🎓 EdTech Ready | 👥 Multi-Tenant
 
 **Microservices Architecture:**
