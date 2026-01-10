@@ -12,8 +12,8 @@
 <div align="center">
   <a href="https://linkedin.com/in/Wesleyharuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
   <a href="mailto:wesley_haruo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
-  <a href="https://github.com/wharuo"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
-  <img src="https://komarev.com/ghpvc/?username=wharuo&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
+  <a href="https://github.com/wesleyharuo"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+  <img src="https://komarev.com/ghpvc/?username=wesleyharuo&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
 </div>
 
 ---
