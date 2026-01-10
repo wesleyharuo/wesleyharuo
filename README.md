@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/wharuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-  <a href="mailto:hks.wesley@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
+  <a href="https://linkedin.com/in/Wesleyharuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+  <a href="mailto:wesley_haruo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
   <a href="https://github.com/wharuo"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
   <img src="https://komarev.com/ghpvc/?username=wharuo&color=58A6FF&style=for-the-badge&label=Profile+Views"/>
 </div>
@@ -26,7 +26,7 @@
 
 ### 💡 Core Expertise
 yaml
-Role: Senior Full Stack Developer & Data Engineer
+Role: Data Engineer
 Experience: Enterprise solutions
 Specialization: 
   - Scalable Web Applications
@@ -115,13 +115,13 @@ Specialization:
 ## 🚀 Featured Projects Portfolio
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wharuo&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wesleyharuo&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Contribution Graph"/>
 </div>
 
 ### 🌟 Enterprise Solutions
 
 #### 🏢 E-Commerce Analytics Platform
-**Repository:** [github.com/wharuo/ecommerce-analytics-platform](https://github.com/wharuo/ecommerce-analytics-platform)  
+**Repository:** [github.com/Wesleyharuo/ecommerce-analytics-platform](https://github.com/Wesleyharuo/ecommerce-analytics-platform)  
 **Status:** ⭐ Production Ready | 🔥 High Impact
 
 **Architecture:**
@@ -152,7 +152,7 @@ Specialization:
 ---
 
 #### 🤖 AI-Powered Task Management System
-**Repository:** [github.com/wharuo/ai-task-manager](https://github.com/wharuo/ai-task-manager)  
+**Repository:** [github.com/Wesleyharuo/ai-task-manager](https://github.com/Wesleyharuo/ai-task-manager)  
 **Status:** 🚀 MVP Complete | 🧪 Beta Testing
 
 **Tech Stack:**
@@ -183,7 +183,7 @@ Specialization:
 ---
 
 #### 📊 Real-Time Financial Data Pipeline
-**Repository:** [github.com/wharuo/financial-data-pipeline](https://github.com/wharuo/financial-data-pipeline)  
+**Repository:** [github.com/Wesleyharuo/financial-data-pipeline](https://github.com/Wesleyharuo/financial-data-pipeline)  
 **Status:** 🏭 Production | 📈 Scaling
 
 **Infrastructure:**
