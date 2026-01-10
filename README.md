@@ -115,13 +115,13 @@ Specialization:
 ## 🚀 Featured Projects Portfolio
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wesleyharuo&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleyharuo&custom_title=Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=21262D&title_color=58A6FF&area=true" alt="Contribution Graph"/>
 </div>
 
 ### 🌟 Enterprise Solutions
 
 #### 🏢 E-Commerce Analytics Platform
-**Repository:** [github.com/Wesleyharuo/ecommerce-analytics-platform](https://github.com/Wesleyharuo/ecommerce-analytics-platform)  
+**Repository:** [github.com/wesleyharuo/ecommerce-analytics-platform](https://github.com/wesleyharuo/ecommerce-analytics-platform)  
 **Status:** ⭐ Production Ready | 🔥 High Impact
 
 **Architecture:**
