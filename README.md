@@ -367,6 +367,5 @@ Interactive Streamlit app for visual vector analysis with real-time calculations
 </div>
 ---
 <div align="center">
-  <h3> "Without data, you're just another person with an opinion." — W. Edwards Deming</h3>
-  <p><strong> If you find my work useful, consider starring the repositories!</strong></p>
+    <p><strong> If you find my work useful, consider starring the repositories!</strong></p>
 </div>
