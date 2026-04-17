@@ -22,7 +22,6 @@
 ## Professional Summary
 
 **Role:** Data Engineer / Data Analyst  
-**Focus:** Data Pipeline Architecture · Machine Learning & AI · Business Intelligence · Web Application Development · Cloud Infrastructure
 
 **Key Strengths:**
 - End-to-end data analytics pipelines - ML model development & deployment - Full-stack web applications - Fraud detection & risk assessment - Business intelligence dashboards
