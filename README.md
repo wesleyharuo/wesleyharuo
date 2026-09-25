@@ -9,7 +9,6 @@ Building data products, predictive systems, and analytics solutions that transfo
 <p>
   <a href="https://linkedin.com/in/Wesleyharuo">LinkedIn</a> ·
   <a href="https://github.com/wesleyharuo">GitHub</a> ·
-  <a href="mailto:wesleyharuo@gmail.com">Email</a>
 </p>
 
 </div>
