@@ -1,0 +1,162 @@
+Lista de projetos públicos do usuário GitHub: wesleyharuo
+Data: 2026-10-12
+
+Total de repositórios listados: 55
+
+Formato: Nome do repositório | Linguagem | Estrelas | Forks | URL
+Descrição: quando disponível, aparece logo abaixo.
+
+------------------------------------------------------------
+
+1) about | HTML | ★1 | forks: 0 | https://github.com/wesleyharuo/about
+Descrição: Sem descrição.
+
+2) AI-Fraud-Detection-Canada | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/AI-Fraud-Detection-Canada
+Descrição: End-to-end fraud detection system designed for Canadian financial institutions (banks, credit unions, fintechs). Built with modern AI/ML, observability, and compliance in mind.
+
+3) AI-hub | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/AI-hub
+Descrição: Sem descrição.
+
+4) Aplication-new | TypeScript | ★0 | forks: 0 | https://github.com/wesleyharuo/Aplication-new
+Descrição: Sem descrição.
+
+5) Calc_Vector | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Calc_Vector
+Descrição: Streamlit app for visual vector analysis with real-time calculations and academic rounding — built for students, engineers, and educators.
+
+6) CardGuard- | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/CardGuard-
+Descrição: CardGuard is a **from-scratch, modular** reimplementation and enhancement of a credit card fraud detection system.
+
+7) cop | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/cop
+Descrição: Sem descrição.
+
+8) Dash_flash_module | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Dash_flash_module
+Descrição: Sem descrição.
+
+9) Data-Driven-Station-Placement-for-Network-Expansion | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Data-Driven-Station-Placement-for-Network-Expansion
+Descrição: This project builds a multi-criteria scoring model that evaluates 150 candidate locations against five weighted factors, selects 15 new sites with a geographic-diversity constraint, forecasts year-1 ridership, and tests the robustness of the recommendation through sensitivity analysis.
+
+10) Data_insurance_IA_ML_Insurance | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Data_insurance_IA_ML_Insurance
+Descrição: Sem descrição.
+
+11) Digital-Transformation | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Digital-Transformation
+Descrição: Sem descrição.
+
+12) DigitalMarketingApi | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/DigitalMarketingApi
+Descrição: Sem descrição.
+
+13) DigitalMenuHub | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/DigitalMenuHub
+Descrição: Sem descrição.
+
+14) Document-Intelligence-Legal-Financial-ETL-Platform | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/Document-Intelligence-Legal-Financial-ETL-Platform
+Descrição: Development of an automated ingestion and processing engine designed for unstructured financial and legal documents, including invoices, receipts, and reports. The solution eliminates manual bottlenecks in data extraction, ensuring accounting compliance and accelerating financial closing cycles.
+
+15) Easylink | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Easylink
+Descrição: Sem descrição.
+
+16) Financial-Analysis-Dashboard | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Financial-Analysis-Dashboard
+Descrição: This dashboard pulls live financial data from Yahoo Finance and delivers a full analysis across seven modules
+
+17) financial-etl-reconciliation-engine | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/financial-etl-reconciliation-engine
+Descrição: Sem descrição.
+
+18) Fleet-Rebalancing-Station-Availability-Analysis | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Fleet-Rebalancing-Station-Availability-Analysis
+Descrição: Operations Analytics Case Study
+
+19) Froud_dectction_data- | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Froud_dectction_data-
+Descrição: Sem descrição.
+
+20) gl-reconciliation-snowflake-dbt | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/gl-reconciliation-snowflake-dbt
+Descrição: Sem descrição.
+
+21) gta-rental-market | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/gta-rental-market
+Descrição: Geospatial and statistical analysis of 5400+ rental listings across 10 GTA neighborhoods
+
+22) KW_Risk | JavaScript | ★0 | forks: 0 | https://github.com/wesleyharuo/KW_Risk
+Descrição: Sem descrição.
+
+23) lex | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/lex
+Descrição: Sem descrição.
+
+24) Loading-Bar | JavaScript | ★0 | forks: 0 | https://github.com/wesleyharuo/Loading-Bar
+Descrição: Sem descrição.
+
+25) Login_Matrix | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Login_Matrix
+Descrição: Sem descrição.
+
+26) Logistics-Distribution-E-commerce | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/Logistics-Distribution-E-commerce
+Descrição: Design and implementation of a real-time data integration architecture focused on multichannel inventory synchronization (spanning Amazon FBA, Shopify, and physical warehouses) alongside automated freight quoting and commercial operations.
+
+27) MachineL.-Note-Authentication | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/MachineL.-Note-Authentication
+Descrição: Canadian Banknote Authentication
+
+28) Manufacturing-Retail-M-A-Data-Integration-Engine-Legacy-Systems-Governance | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/Manufacturing-Retail-M-A-Data-Integration-Engine-Legacy-Systems-Governance
+Descrição: Implementation of a robust middleware and ETL integration layer to unify legacy systems, enterprise resource planning platforms (such as SAP and Microsoft Dynamics 365 Business Central), and commercial front-ends, ensuring data integrity across sales, inventory, and finance.
+
+29) maple-cafe-sales | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/maple-cafe-sales
+Descrição: Sales analytics of 46K+ POS transactions across 3 GTA cafe locations
+
+30) maple-outfitters | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/maple-outfitters
+Descrição: Full-funnel analysis of 9800+ orders across 5 sales channels for a Canadian outdoor retail brand
+
+31) Medic-System | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Medic-System
+Descrição: Sem descrição.
+
+32) Midia_menu | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Midia_menu
+Descrição: Code for social media menu. code created in HTML, CSS, JavaScript
+
+33) Model_Dig_MKT | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Model_Dig_MKT
+Descrição: Sem descrição.
+
+34) PDF_To_Word | PowerShell | ★0 | forks: 0 | https://github.com/wesleyharuo/PDF_To_Word
+Descrição: Converso PDF
+
+35) Portfolio_ | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Portfolio_
+Descrição: Sem descrição.
+
+36) Predicta_Suite | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Predicta_Suite
+Descrição: Model Sales Analysis Forecasting
+
+37) Predict_Sales | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Predict_Sales
+Descrição: The Sales Forecasting Dashboard is a machine learning project designed to predict future sales
+
+38) Process-Improvemen | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/Process-Improvemen
+Descrição: Sem descrição.
+
+39) Process-Improvement-Data-Analytics-Platform | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Process-Improvement-Data-Analytics-Platform
+Descrição: Sem descrição.
+
+40) QuickStats-Web | HTML | ★0 | forks: 0 | https://github.com/wesleyharuo/QuickStats-Web
+Descrição: Project is being developed to create a service website that creates simple statistics
+
+41) Real-Estate-Tenant-Lifecycle-Automation-Pipeline | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/Real-Estate-Tenant-Lifecycle-Automation-Pipeline
+Descrição: Creation of an end-to-end integrated system for customer lifecycle management in the real estate sector, covering everything from initial lead qualification to the digital onboarding of new tenants.
+
+42) Statistic | JavaScript | ★0 | forks: 0 | https://github.com/wesleyharuo/Statistic
+Descrição: Sem descrição.
+
+43) superClient | N/D | ★1 | forks: 0 | https://github.com/wesleyharuo/superClient
+Descrição: Secure, local-first SuperClient for Ollama (hardened)
+
+44) tsx-recovery-screener | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/tsx-recovery-screener
+Descrição: Sem descrição.
+
+45) Unit-Economics-Investment-Analysis | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/Unit-Economics-Investment-Analysis
+Descrição: This project builds a unit-economics model for both bike types, then simulates three capital-allocation scenarios to identify the option that maximises year-1 profit while managing downside risk.
+
+46) Web-Analytics-Auditoria-de-Funil-de-Convers-o-GA4-GTM- | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/Web-Analytics-Auditoria-de-Funil-de-Convers-o-GA4-GTM-
+Descrição: Sem descrição.
+
+47) web_analytics | Python | ★0 | forks: 0 | https://github.com/wesleyharuo/web_analytics
+Descrição: Sem descrição.
+
+48) wesleyharuo | N/D | ★0 | forks: 0 | https://github.com/wesleyharuo/wesleyharuo
+Descrição: Sem descrição.
+
+
+------------------------------------------------------------
+
+Observações:
+- 'N/D' indica linguagem não informada nos metadados da API.
+- Descrições vieram dos metadados públicos do GitHub; alguns repositórios não possuem descrição.
+
+Arquivo gerado automaticamente pelo assistente.
