@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Wesleyharuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/wesleyharuo?tab=repositories"><img src="https://img.shields.io/badge/All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=wesleyharuo&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
